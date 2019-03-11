@@ -1,2 +1,2 @@
 # noughts-and-crosses
-game build exercise
+game build / coding exercise html css javascript
